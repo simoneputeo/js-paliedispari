@@ -6,7 +6,6 @@ Creare una funzione per capire se la parola inserita è palindroma */
 // Input della parola e rimozione eventuali caratteri in maiuscolo
 // (che romperebbero la funzione)
 let word = prompt("Inserisci una parola").toLowerCase()
-
 //Applicazione funzione isPalindrome alla variabile Word
 function isPalindrome(word) {
 
